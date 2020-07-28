@@ -27,3 +27,5 @@ with con:
 
     con.commit()
     cur.close()
+
+# провека
